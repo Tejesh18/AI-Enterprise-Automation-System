@@ -55,7 +55,3 @@ Final reports can be exported as:
 - Text summaries  
 - (optional) HTML reports  
 
----
-
-## 📁 Project Structure
-
